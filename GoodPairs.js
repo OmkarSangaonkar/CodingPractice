@@ -1,8 +1,10 @@
 console.log("testing no of good pairs");
 
 /**
+ *
  * 1512. Number of Good Pairs
  * problem link:  https://leetcode.com/problems/number-of-good-pairs/
+ *
  */
 
 var numIdenticalPairs = function (nums) {
